@@ -1,0 +1,49 @@
+```
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# Logs
+logs
+*.log
+logs/*
+*.pid
+*.seed
+*.pid.lock
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
+coverage/
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+
+# Temp files
+tmp/
+*.tmp
+*.bak
+*.orig
+```
